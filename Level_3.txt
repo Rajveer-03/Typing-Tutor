@@ -1,0 +1,18 @@
+A good example of that approach is Sproull Kieslers filter model of CMC, which focuses
+on the technological or engineering features of e-mail
+and other forms of computer-based.
+According to this perspective, CMC limits the bandwidth of social,
+settings (or to telephone interaction, which at least occurs in
+real time and includes important nonverbal features of speech).
+Sproull & Kiesler (1985) considered CMC to be an impoverished
+experience, with the reduction of available social cues
+resulting in a greater sense or feeling of anonymity.
+This in turn is said to have a deindividuating effect on
+the individuals involved, producing behavior that is
+more self-centered and less socially regulated than usual.
+This reduced-information model of Internet assumes further
+have negative effects on social interaction
+(i.e., a weaker, relatively impoverished social interaction).
+Note also that this engineering or bandwidth model assumes that the channel effects of Internet
+communication are the same for all users and across all contexts in other words,
+it predicts a main effect of channel.
